@@ -9,7 +9,7 @@ namespace TCP_Server
     class Server
     {
         const int PORT_NO = 5000;
-        const string SERVER_IP = "10.0.0.93";
+        const string SERVER_IP = "172.31.34.255";
         const string message = "Hello!";
 
         static void Main(string[] args)
